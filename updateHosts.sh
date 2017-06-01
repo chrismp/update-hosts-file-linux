@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # based on http://www.putorius.net/2012/01/block-unwanted-advertisements-on.html
 HOSTS="/etc/hosts"
 HOSTS_TXT="hosts.txt"
